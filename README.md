@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 👋
 
 <!--
 **ZhechengLiao/ZhechengLiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🧩 Currently a UCSB second year student major in Data Science. 
 
-I love Machine Learning, NLP. 🤖
+- 🤖 I love Machine Learning, NLP.
 
-I'm currently a UCSB second year student major in Data Science. 
-
-I'd like to create an AI help human accelerating **basic science**(physics, math, etc.) 🚀
+- 🚀 I'd like to create an AI to help human accelerating **basic science**(physics, math, etc.) 
 
 
 
