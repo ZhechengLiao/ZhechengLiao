@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I love Machine Learning, NLP, currently a UCSB second year student major in Data Science.
+I love Machine Learning, NLP, currently a UCSB second year student major in Data Science. 🤖
 
-I'd like to create an AI help human accelerating **basic science**(physics, math, etc.)
+I'd like to create an AI help human accelerating **basic science**(physics, math, etc.) 🚀
 
 
 
