@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I love Machine Learning, NLP, currently a UCSB second year student major in Data Science.
+
 I'd like to create an AI help human accelerating **basic science**(physics, math, etc.)
 
 
