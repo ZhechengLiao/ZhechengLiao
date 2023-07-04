@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🤖 I love Machine Learning, NLP.
 
-- 🚀 I'd like to create an AI to help human accelerating **basic science**(physics, math, etc.) 
+- 🚀 I'd like to create an AI to help human accelerate **basic science**(physics, math, etc.) 
 
 
 
