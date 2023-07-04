@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🧩 Currently a UCSB second year student major in Data Science. 
 
-- 🤖 I love Machine Learning, NLP.
+- 🤖 I love Machine Learning and NLP.
 
 - 🚀 I'd like to create an AI to help human accelerate **basic science**(physics, math, etc.) 
 
