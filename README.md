@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🚀 I'd like to create an AI to help human accelerate **basic science**(physics, math, etc.)
 
-You can download my resume [here](https://docs.google.com/document/d/1Itw6bXEGtzryfUVmAF4HV2qXfNiKf3DEPc6zZj1IiE0/edit?usp=sharing).
+You can view my resume [here](https://docs.google.com/document/d/1Itw6bXEGtzryfUVmAF4HV2qXfNiKf3DEPc6zZj1IiE0/edit?usp=sharing).
 
 ### Technologies I'm familiar with 🔬
 
