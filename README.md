@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🧩 Currently a UCSB second year student major in Data Science and minor in Physics. 
+- 🧩 Currently a UCSB second year student major in Data Science and Math and minor in Physics. 
 
 - 🤖 I love Machine Learning and NLP.
 
