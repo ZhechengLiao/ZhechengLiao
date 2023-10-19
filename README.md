@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🧩 Currently a UCSB second-year student double major in Data Science and Math and minor in Physics. 
 
-- 🤖 I love Machine Learning and NLP.
+- 🤖 I love Machine Learning and Math.
 
 - 🚀 I'd like to create an AI to help humans accelerate **basic science**(physics, math, etc.)
 
