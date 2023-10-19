@@ -14,18 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🧩 Currently a UCSB second year student major in Data Science and Math and minor in Physics. 
+- 🧩 Currently a UCSB second-year student double major in Data Science and Math and minor in Physics. 
 
 - 🤖 I love Machine Learning and NLP.
 
-- 🚀 I'd like to create an AI to help human accelerate **basic science**(physics, math, etc.)
+- 🚀 I'd like to create an AI to help humans accelerate **basic science**(physics, math, etc.)
 
 You can view my resume [here](https://docs.google.com/document/d/1Itw6bXEGtzryfUVmAF4HV2qXfNiKf3DEPc6zZj1IiE0/edit?usp=sharing).
 
 ### Technologies I'm familiar with 🔬
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C%2B%2B%2FC-DE3163?style=for-the-badge&logo=C&logoColor=white)
+
+
 
 **Tools:**  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-2596be?style=for-the-badge&logo=numpy&logoColor=white)
