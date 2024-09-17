@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🧩 Currently a UCSB second-year student double major in Data Science and Math and minor in Physics. 
-
-- 🤖 I love Machine Learning and Math.
-
-- 🚀 I'd like to create an AI to help humans accelerate **basic science**(physics, math, etc.)
+- 🧩 UCSB Physics & Math. 
 
 You can view my resume [here](https://docs.google.com/document/d/1Itw6bXEGtzryfUVmAF4HV2qXfNiKf3DEPc6zZj1IiE0/edit?usp=sharing).
 
