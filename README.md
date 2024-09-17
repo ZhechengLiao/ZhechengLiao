@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🧩 UCSB Physics & Math. 
-
-You can view my resume [here](https://docs.google.com/document/d/1Itw6bXEGtzryfUVmAF4HV2qXfNiKf3DEPc6zZj1IiE0/edit?usp=sharing).
-
-### Technologies I'm familiar with 🔬
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C%2B%2B%2FC-DE3163?style=for-the-badge&logo=C&logoColor=white)
